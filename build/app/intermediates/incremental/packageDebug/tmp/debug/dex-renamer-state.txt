@@ -1,0 +1,4 @@
+#Sun Feb 04 14:52:20 WIB 2024
+base.0=/Users/adit/Developments/mini_erp_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

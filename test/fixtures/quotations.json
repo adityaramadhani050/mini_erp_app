@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1,
+        "name" : "test1",
+        "statusId" : 1,
+        "customerId" : 1,
+        "ammount" : 1,
+        "createdDate": "2024-02-01 00:00:00.000"
+    },
+    {
+        "id" : 2,
+        "name" : "test2",
+        "statusId" : 2,
+        "customerId" : 2,
+        "ammount" : 2,
+        "createdDate": "2024-02-01 00:00:00.000"
+    }
+]
